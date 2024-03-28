@@ -10,6 +10,14 @@ This project aims to build a predictive model for estimating salaries based on a
 - **matplotlib**: Used to visualize the data distribution and model performance.
 - **scikit-learn (sklearn)**: Provides convenient tools for model training, testing, and evaluation.
 
+```bash
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+```
+
 ## Project Workflow
 
 1. **Data Preprocessing**: The dataset is loaded from a CSV file, and any incomplete or missing entries are addressed by removing corresponding rows.
