@@ -1,10 +1,9 @@
-
-# Predicting Salaries Based on Years of Experience
+# **Predicting Salaries Based on Years of Experience**
 
 
 This project aims to build a predictive model for estimating salaries based on an individual's years of professional experience. Leveraging a dataset containing salary information coupled with corresponding years of experience, the project employs a linear regression approach to develop and assess the model's accuracy.
 
-## <font color="blue">Utilized Libraries</font>
+## Utilized Libraries
 
 - **pandas**: A powerful data manipulation tool for handling the dataset.
 - **numpy**: Essential for performing numerical computations efficiently.
@@ -35,3 +34,8 @@ To clone the repository and access the project files, use the following command:
 
 ```bash
 git clone https://github.com/Arjun-Regmi-Chhetri/salary-prediction-machine-learning
+```
+
+# Open the project
+```bash
+cd salary-prediction-machine-learning
